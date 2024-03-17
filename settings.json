@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "LegendSMP07.aternos.me",
+    "port": 43784,
     "version": "1.19.3"
   },
 
